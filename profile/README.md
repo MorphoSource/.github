@@ -23,4 +23,9 @@ Our team participates in many different working groups, technology initatives, a
 
 MorphoSource exists through the support of Duke University, the National Science Foundation, and many others. We are also grateful to [Scout APM](https://scoutapm.com/) for their support in providing full-stack application performance monitoring that underpins the repository web application.
 
+<p float="left">
+  <a href="https://www.duke.edu"><img src="duke_logo.png" height="75px" /></a>
+  <a href="https://www.nsf.gov"><img src="nsf_logo.png" height="75px" /></a>
+  <a href="https://www.scoutapm.com"><img src="scout_logo.png" height="75px" /></a>
+</p>
 
