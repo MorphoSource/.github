@@ -16,6 +16,7 @@ Our team participates in many different working groups, technology initatives, a
   <a href="https://iiif.io"><img src="iiif_logo.png" height="75px" /></a>
   <a href="https://universalviewer.io"><img src="uv_logo.png" height="75px" /></a>
   <a href="https://www.idigbio.org"><img src="idigbio_logo.png" height="75px" /></a>
+  <a href="[https://www.idigbio.org](https://github.com/samvera/hyrax)"><img src="hyrax_logo.png" height="75px" /></a>
 </p>
 
 ## Support
