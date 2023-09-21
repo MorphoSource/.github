@@ -13,9 +13,9 @@ We also have some repositories related to MorphoSource not located in this organ
 Our team participates in many different working groups, technology initatives, and digital infrastructure communities. These are just some of the groups we work with:
 
 <p float="left">
-  <img src="iiif_logo.png" width="100px"  />
-  <img src="uv_logo.png" width="100px" />
-  <img src="idigbio_logo.png" width="100px" />
+  <a href="https://iiif.io"><img src="iiif_logo.png" height="75px" /></a>
+  <a href="https://universalviewer.io"><img src="uv_logo.png" height="75px" /></a>
+  <a href="https://www.idigbio.org"><img src="idigbio_logo.png" height="75px" /></a>
 </p>
 
 ## Support
