@@ -13,10 +13,10 @@ We also have some repositories related to MorphoSource not located in this organ
 Our team participates in many different working groups, technology initatives, and digital infrastructure communities. These are just some of the groups we work with:
 
 <p float="left">
-  <a href="https://iiif.io"><img src="iiif_logo.png" height="75px" /></a>
-  <a href="https://universalviewer.io"><img src="uv_logo.png" height="75px" /></a>
-  <a href="https://www.idigbio.org"><img src="idigbio_logo.png" height="75px" /></a>
-  <a href="[https://www.idigbio.org](https://github.com/samvera/hyrax)"><img src="hyrax_logo.png" height="75px" /></a>
+  <a href="https://iiif.io"><img src="https://raw.githubusercontent.com/MorphoSource/.github/main/profile/iiif_logo.png" height="75px" /></a>
+  <a href="https://universalviewer.io"><img src="https://raw.githubusercontent.com/MorphoSource/.github/main/profile/uv_logo.png" height="75px" /></a>
+  <a href="https://www.idigbio.org"><img src="https://raw.githubusercontent.com/MorphoSource/.github/main/profile/idigbio_logo.png" height="75px" /></a>
+  <a href="https://github.com/samvera/hyrax"><img src="https://raw.githubusercontent.com/MorphoSource/.github/main/profile/hyrax_logo.png" height="75px" /></a>
 </p>
 
 ## Support
@@ -24,8 +24,8 @@ Our team participates in many different working groups, technology initatives, a
 MorphoSource exists through the support of Duke University, the National Science Foundation, and many others. We are also grateful to [Scout APM](https://scoutapm.com/) for their support in providing full-stack application performance monitoring that underpins the repository web application.
 
 <p float="left">
-  <a href="https://www.duke.edu"><img src="duke_logo.png" height="75px" /></a>
-  <a href="https://www.nsf.gov"><img src="nsf_logo.png" height="75px" /></a>
-  <a href="https://www.scoutapm.com"><img src="scout_logo.png" height="75px" /></a>
+  <a href="https://www.duke.edu"><img src="https://raw.githubusercontent.com/MorphoSource/.github/main/profile/duke_logo.png" height="75px" /></a>
+  <a href="https://www.nsf.gov"><img src="https://raw.githubusercontent.com/MorphoSource/.github/main/profile/nsf_logo.png" height="75px" /></a>
+  <a href="https://www.scoutapm.com"><img src="https://raw.githubusercontent.com/MorphoSource/.github/main/profile/scout_logo.png" height="75px" /></a>
 </p>
 
